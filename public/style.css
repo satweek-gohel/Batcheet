@@ -162,6 +162,7 @@ textarea {
         left:71%;
         width: 60px;
         height: 30px;
+        display:none;
     }
 }
 
